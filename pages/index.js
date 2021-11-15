@@ -113,7 +113,7 @@ const index = () => (
                     </div>
                     <div className="card-body">
                       <h3>{name}</h3>
-                        <a href={`/${link}`} target="_blank">Know More</a>
+                        <a href={`/${link}`} target="_blank" rel="noopener noreferrer">Know More</a>
                     </div>
                   </div>
                 </div>
